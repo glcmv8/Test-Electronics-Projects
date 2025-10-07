@@ -1,4 +1,4 @@
 # Test Electronics Projects
-Projects for the Test Electronics subgroup. Created Fall of 2025
+Projects for the Test Electronics subgroup. Created Fall of 2025 <br>
 Folders provided for all projects and projects within projects
-	Add all CAD and Code files here!
+Add all CAD and Code files here!
